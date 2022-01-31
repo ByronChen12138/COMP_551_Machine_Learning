@@ -1,1 +1,1 @@
-# COMP_551_Machine_Learning
+# COMP 551 Machine Learning Fall 2021
